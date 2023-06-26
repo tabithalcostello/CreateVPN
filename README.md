@@ -46,7 +46,7 @@ Copy or Write down the VM's Private IP address. In this case, 20.123.35.28. Acce
 <img src="https://i.imgur.com/eCZMEtM.png" height="80%" width="80%" alt="RemoteDesktopView"/></a>
 </p>
 <p>
-In the Windows 10, there is a Microsoft Edge to connect to the Internet. Open up a browser. Add type in the web address: "whatismyipaddress.com" 
+In the Windows 10, there is a Microsoft Edge to connect to the Internet. Open up a browser. Add type in the web address: <a href="https://whatismyipaddress.com"> whatismyipaddress.com </a>
 </p>
 <br />
 
@@ -62,11 +62,11 @@ Since the region in the VM was set to North Europe, the IP address of 20.123.35.
 <img src="https://i.imgur.com/c9AK8HM.png" height="80%" width="80%" alt="Download Proton VPN"/>
 </p>
 <p>
-In Microsoft Edge web browser, go to the Proton VPN website at https://protonvpn.com
+In Microsoft Edge web browser, go to the Proton VPN website: <a href="https://protonvpn.com"> protonvpn.com </a>. Download the Proton VPN for Windows. Select lanugage preference.  
 </p>
 <br />
 
-<p>
+<p> <a href="https://imgur.com/mhFAEdC"><img src="https://i.imgur.com/mhFAEdC.png" title="source: imgur.com" /></a>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
