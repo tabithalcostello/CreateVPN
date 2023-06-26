@@ -5,7 +5,7 @@
 </p>
 
 <h2> Summary</h2>
-The following is a brief walk through on how to connect a Microsoft Azure Virtual Machine (VM) to a Virtual Private Network (VPN) using Proton VPN. This is a brilliant tool for those who work remotely, who travel abroad, and who utilize the computer in spaces with public WIFI. <br/>
+The following is a brief walk through on how to connect a Microsoft Azure Virtual Machine (VM) to a Virtual Private Network (VPN) using Proton VPN. This is a brilliant tool for those who work remotely, who travel abroad, and who utilize the computer in spaces with public WIFI. <br />
 
 <h2>Environments and Technologies Used</h2>
 
@@ -90,11 +90,11 @@ Even though the VM connected to a VPN in Japan, the region displayed is Casablan
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/70iEDrS.pn" height="80%" width="80%" alt="DisconnectfromVPN"/>
+<p> 
+<img src="https://i.imgur.com/70iEDrS.png" height="80%" width="80%" alt="Disconnect from VPN"/>
 </p>
 <p>
-Disconnect from the VPN. The VM's original IP address of 20.123.35.28 reappears. You can also revisit <a href="https://whatismyipaddress.com"> whatismyipaddress.com </a>. The VM's original IP address and region will be displayed on the website. 
+The VM's original IP address of 20.123.35.28 reappears. You can also revisit <a href="https://whatismyipaddress.com"> whatismyipaddress.com </a>. The VM's original IP address and region will be displayed on the website. 
 </p>
 <br />
 
