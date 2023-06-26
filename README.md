@@ -5,7 +5,7 @@
 </p>
 
 <h2> Summary</h2>
-The following is a brief walk through on how to connect a Microsoft Azure Virtual Machine (VM) to a Virtual Private Network (VPN) using Proton VPN. This will be based on the main computer using a macOS. This is a brilliant tool for those who work remotely, who travel abroad, and who utilize the computer in spaces with public WIFI. <br />
+The following is a brief walk through on how to connect a Microsoft Azure Virtual Machine (VM) to a Virtual Private Network (VPN) using Proton VPN. This is a brilliant tool for those who work remotely, who travel abroad, and who utilize the computer in spaces with public WIFI. <br/>
 
 <h2>Environments and Technologies Used</h2>
 
@@ -22,7 +22,7 @@ The following is a brief walk through on how to connect a Microsoft Azure Virtua
 - A Subscription with Microsoft Azure (FREE $200 USD worth of credit!)
 - Microsoft Remote Desktop (FREE!)
 - An Account with Proton VPN (FREE!)
-- *Highly recommended to subscribe and install Microsoft Azure and Microsoft Remote Desktop prior to the implementation stage. Also create an account with Proton VPN, but the installation will take place during implementation in the Remote Desktop. Be sure to safely record your user names and passwords.* 
+- *Highly recommend to subscribe and to install Microsoft Azure and Microsoft Remote Desktop prior to the Implementation stage. Also, create an account with Proton VPN, but the installation will take place during implementation in the Remote Desktop. Be sure to safely record your user names and passwords.* 
   
 <h2>Implementation</h2>
 
