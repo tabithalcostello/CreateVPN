@@ -5,7 +5,7 @@
 </p>
 
 <h2> Summary</h2>
-The following is a brief walk through on how to connect a Microsoft Azure Virtual Machine (VM) to a Virtual Private Network (VPN) using Proton VPN. There is no special computer coding involved like you see in the movies. This is a brilliant and simple tool for those who work remotely, who travel abroad, and who utilize the computer in spaces with public WIFI.  <br />
+The following is a brief walk through on how to connect a Microsoft Azure Virtual Machine (VM) to a Virtual Private Network (VPN) using Proton VPN. There is no special computer coding involved like you see in the movies. This is a brilliant and secure way for those who work remotely, who travel abroad, and who utilize the computer in spaces with public WIFI. In this walk through, a Microsoft Azure VM will connect to a VPN using Proton VPN's Wireguard.   <br />
 
 <h2>Environments and Technologies Used</h2>
 
