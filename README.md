@@ -9,9 +9,9 @@ The following is a brief walk through on how to connect a Microsoft Azure Virtua
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machine)
-- Microsoft Remote Desktop
-- Proton VPN
+- <a href="https://azure.microsoft.com/en-us/"> Microsoft Azure (Virtual Machine)</a>
+- <a href="https://apps.apple.com/us/app/microsoft-remote-desktop/id1295203466?mt=12"> Microsoft Remote Desktop </a>
+- <a href="https://protonvpn.com"> Proton VPN </a>
 
 <h2>Operating System(s) Used </h2>
 
@@ -94,7 +94,7 @@ Even though the VM connected to a VPN in Japan, the region displayed is Casablan
 <img src="https://i.imgur.com/70iEDrS.pn" height="80%" width="80%" alt="DisconnectfromVPN"/>
 </p>
 <p>
-Disconnecting from the VPN, the VM's original IP address of 20.123.35.28 reappears. You can revisit <a href="https://whatismyipaddress.com"> whatismyipaddress.com </a>. The VM's original IP address and region will be displayed on the website. 
+Disconnect from the VPN. The VM's original IP address of 20.123.35.28 reappears. You can also revisit <a href="https://whatismyipaddress.com"> whatismyipaddress.com </a>. The VM's original IP address and region will be displayed on the website. 
 </p>
 <br />
 
@@ -102,6 +102,6 @@ Disconnecting from the VPN, the VM's original IP address of 20.123.35.28 reappea
 <img src="https://i.imgur.com/QJvpT0v.png" height="80%" width="80%" alt="Delete"/>
 </p>
 <p>
-Be sure to Sign Out of Proton VPN. Delete the PC in Microsoft Remote Desktop. Delete all Resource Groups associated with this VM. (The $200 USD worth of credit expires in 30 days. Plus leaving unncessary Resource Groups and VMs will eat at the credit.)
+Be sure to Sign Out of Proton VPN. Delete the PC in Microsoft Remote Desktop. Delete all Resource Groups associated with this VM. (The $200 USD worth of credit expires in 30 days. Plus leaving unncessary Resource Groups and VMs will eat at the credit.) Sign out of Microsoft Azure. 
 </p>
 <br />
