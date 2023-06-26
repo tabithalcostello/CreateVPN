@@ -15,14 +15,14 @@ This is a brief walk through on how to connect a Microsoft Azure Virtual Machine
 
 <h2>Operating System(s) Used </h2>
 
-- Windows 10 Pro</b> 
+- <b>Windows 10 Pro</b> 
 
 <h2>List of Prerequisites</h2>
-(It is advised to subscribe and install the below prior to the implementation steps. Be sure to safely record user names and passwords.)
 
 - A Subscription with Microsoft Azure (FREE $200 USD worth of credit!)
 - Microsoft Remote Desktop (FREE!)
 - An Account with Proton VPN (FREE!)
+- *Highly recommended to subscribe and install to Microsoft Azure and Microsoft Remote Desktop prior to the implementation stage. Subscribe to Proton VPN, but the installation will take place during implementation. Be sure to safely record your user names and passwords.* 
   
 <h2>Implementation</h2>
 
@@ -38,7 +38,7 @@ In Microsoft Azure, create a Virtual Machine. Name the Resource Group and Virtua
 <img src="https://i.imgur.com/GkDDpGe.png" height="80%" width="80%" alt="RemoteDesktop" /></a>
 </p>
 <p>
-Copy or Write down the VM's Private IP address. Access Microsoft Remote Desktop, add a PC, and add the VM's IP address to it. Connect using your user name and password.
+Copy or Write down the VM's Private IP address. In this case, 20.123.35.28. Access Microsoft Remote Desktop, add a PC, and add the VM's IP address to it. Connect using your user name and password.
 </p>
 <br />
 
@@ -46,23 +46,23 @@ Copy or Write down the VM's Private IP address. Access Microsoft Remote Desktop,
 <img src="https://i.imgur.com/eCZMEtM.png" height="80%" width="80%" alt="RemoteDesktopView"/></a>
 </p>
 <p>
-Description
+In the Windows 10, there is a Microsoft Edge to connect to the Internet. Open up a browser. Add type in the web address: "whatismyipaddress.com" 
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p> 
+<img src="https://i.imgur.com/XyTNYTG.png" height="80%" width="80%" alt="VM's IP Address"/>
 </p>
 <p>
-Description
+Since the region in the VM was set to North Europe, the IP address of 20.123.35.28 is set to be in Dublin, Ireland. 
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p> 
+<img src="https://i.imgur.com/c9AK8HM.png" height="80%" width="80%" alt="Download Proton VPN"/>
 </p>
 <p>
-Description
+In Microsoft Edge web browser, go to the Proton VPN website at https://protonvpn.com
 </p>
 <br />
 
